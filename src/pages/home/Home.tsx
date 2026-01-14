@@ -1,7 +1,3 @@
-interface homeProps {
-  title: string;
-  description: string;
-}
 function Home() {
   return (
     <>
